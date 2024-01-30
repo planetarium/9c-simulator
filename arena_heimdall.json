@@ -1,0 +1,502 @@
+[
+    {
+        "rankid": 1,
+        "score": 4967,
+        "guild": "",
+        "avatarname": "NyamNyam",
+        "avataraddress": "0xe71Ef490B91BE9aBb7f065016B797E4B91A73D74",
+        "cp": 2559046,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 2,
+        "score": 4961,
+        "guild": "",
+        "avatarname": "KOONGDINI",
+        "avataraddress": "0xd4DB6b284434fc37568DFb78eDc4f11331F9ec74",
+        "cp": 2593185,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 3,
+        "score": 4959,
+        "guild": "",
+        "avatarname": "RIsyA",
+        "avataraddress": "0x41688567bfBEf8d421517641721A4Aa8e5B30364",
+        "cp": 2756361,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 4,
+        "score": 4955,
+        "guild": "",
+        "avatarname": "Seymar",
+        "avataraddress": "0x1d7a8b32241CB4165a0C50a9e9891Eb436eb0926",
+        "cp": 2635195,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 5,
+        "score": 4953,
+        "guild": "",
+        "avatarname": "SharkBa",
+        "avataraddress": "0x3a24f80Fb9C081729840C79d34f239224F61c405",
+        "cp": 2858193,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 7,
+        "score": 4950,
+        "guild": "VHL",
+        "avatarname": "Lambo",
+        "avataraddress": "0xC8cf929cEc2Ae1dAa45891E28461C3CF01c5a10c",
+        "cp": 2830947,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 7,
+        "score": 4950,
+        "guild": "",
+        "avatarname": "BH",
+        "avataraddress": "0x36f503d97cCCE982A3A1CB93444eB14af5ed0902",
+        "cp": 2650305,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 8,
+        "score": 4949,
+        "guild": "",
+        "avatarname": "NeoType",
+        "avataraddress": "0xCf7639Bc10856b68FF9B6d0160149fA4f031BB4B",
+        "cp": 2512091,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 9,
+        "score": 4948,
+        "guild": "",
+        "avatarname": "Candle",
+        "avataraddress": "0xBbccF7842070c16310007D8A23385812C737d685",
+        "cp": 2297875,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 10,
+        "score": 4945,
+        "guild": "",
+        "avatarname": "Hisoka",
+        "avataraddress": "0xca34855773978dCb4Cdde2fE8c4B856842ac2c1f",
+        "cp": 2578347,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 11,
+        "score": 4943,
+        "guild": "VHL",
+        "avatarname": "Wabbs",
+        "avataraddress": "0xaB44635462880666dAa7f2Be5a21c71C1590fF2B",
+        "cp": 2511200,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 12,
+        "score": 4940,
+        "guild": "",
+        "avatarname": "TranHaoNam",
+        "avataraddress": "0x1F84afF904fD468e0Cc680b9F631b408f4709f48",
+        "cp": 2656823,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 13,
+        "score": 4936,
+        "guild": "",
+        "avatarname": "zumic",
+        "avataraddress": "0x0FB7D9aEe6B458eD42BD691F94DFa13cC91877bf",
+        "cp": 2689451,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 14,
+        "score": 4934,
+        "guild": "",
+        "avatarname": "BANG",
+        "avataraddress": "0x42421AB4EB3e509A10d3C9d9E902c0ab729F4a3B",
+        "cp": 2486148,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 17,
+        "score": 4918,
+        "guild": "",
+        "avatarname": "Gitanofly",
+        "avataraddress": "0x6328879C0D485649E788863cc7a882E97CceBE23",
+        "cp": 2306115,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 17,
+        "score": 4918,
+        "guild": "",
+        "avatarname": "Satan",
+        "avataraddress": "0xd9186D0a270b8Ac77407602E198c6BB21dB0Ac4E",
+        "cp": 2804811,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 17,
+        "score": 4918,
+        "guild": "",
+        "avatarname": "TheUsual",
+        "avataraddress": "0xfC267f569f2D8967070C0A9602D671935ffd459a",
+        "cp": 2426403,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 18,
+        "score": 4917,
+        "guild": "",
+        "avatarname": "KING",
+        "avataraddress": "0xCF58cC5972f61F6c0D123122084101C2e1e80b4d",
+        "cp": 2628513,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 19,
+        "score": 4916,
+        "guild": "",
+        "avatarname": "Atralupus",
+        "avataraddress": "0xc106714d1bf09C37bcFf24362EEa5508D925f37a",
+        "cp": 2376800,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 20,
+        "score": 4911,
+        "guild": "",
+        "avatarname": "Kennichi",
+        "avataraddress": "0x11fbc6eF8323834Ef9dC3Ce0AB8286AF20Dc136a",
+        "cp": 2488504,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 21,
+        "score": 4908,
+        "guild": "VHL",
+        "avatarname": "FioX",
+        "avataraddress": "0x3b7a47daAece48807Fc00a310B05BD9f5D26736e",
+        "cp": 2504715,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 22,
+        "score": 4900,
+        "guild": "",
+        "avatarname": "MTWing",
+        "avataraddress": "0x5716BF6d448fDF49AB86896eb959C5f0A7B0CaeD",
+        "cp": 2227512,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 23,
+        "score": 4893,
+        "guild": "",
+        "avatarname": "GloBinKu",
+        "avataraddress": "0x87fDD1a2115b8655164Cd3355c37845D0C173461",
+        "cp": 1927423,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 24,
+        "score": 4890,
+        "guild": "",
+        "avatarname": "iRusSher",
+        "avataraddress": "0x452ee75089b9a6E4aEE7ae28d3227CbF03faC3DB",
+        "cp": 2327385,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 25,
+        "score": 4888,
+        "guild": "",
+        "avatarname": "colin2",
+        "avataraddress": "0x77390AD2518De1D7Bb6e1BF3b6Dcec3a2cfa65e2",
+        "cp": 1969815,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 26,
+        "score": 4885,
+        "guild": "",
+        "avatarname": "bluetea",
+        "avataraddress": "0x21eeB517af1b0bFE304dB2bE8Dc8B4e61a9d4b1f",
+        "cp": 2585148,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 27,
+        "score": 4882,
+        "guild": "",
+        "avatarname": "somaking",
+        "avataraddress": "0x9e4405DFd2b25d31a491Fe693f08229cd6490804",
+        "cp": 2579493,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 28,
+        "score": 4878,
+        "guild": "",
+        "avatarname": "CCLK",
+        "avataraddress": "0x1CD9eD41FA4101e6Cc2C7F5C083FC02fc983a705",
+        "cp": 2002970,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 29,
+        "score": 4877,
+        "guild": "",
+        "avatarname": "shmel",
+        "avataraddress": "0x76cC2746ac35EADcc16B08183ce7194EED277947",
+        "cp": 1996734,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 30,
+        "score": 4875,
+        "guild": "",
+        "avatarname": "AntoniJr",
+        "avataraddress": "0x732a63542e63Ad6c35C44959272c4094F49f9871",
+        "cp": 1912638,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 31,
+        "score": 4869,
+        "guild": "UCG",
+        "avatarname": "Wells",
+        "avataraddress": "0xA222Ac97A3dac14E743dd9fEDF3f4a7E28e15011",
+        "cp": 1916664,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 32,
+        "score": 4868,
+        "guild": "WLB",
+        "avatarname": "Squirrelington",
+        "avataraddress": "0xd0981D215AFCbc3130076989821DA118a1b134C1",
+        "cp": 2031989,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 33,
+        "score": 4865,
+        "guild": "",
+        "avatarname": "1000Chai",
+        "avataraddress": "0x430651166b17B5Af94D4FE82bCDF61ee0D8336DC",
+        "cp": 2162791,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 34,
+        "score": 4864,
+        "guild": "",
+        "avatarname": "HongJjang",
+        "avataraddress": "0xB8DCB8dE4BC1f89832fBFdE16F011c7E11043De1",
+        "cp": 1991537,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 35,
+        "score": 4863,
+        "guild": "",
+        "avatarname": "Cong",
+        "avataraddress": "0x1D4AfB4430a89fbca24923552736E6e1d8DC9cFD",
+        "cp": 1843935,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 36,
+        "score": 4861,
+        "guild": "",
+        "avatarname": "Manigo",
+        "avataraddress": "0x89aF59Ec774CaE0A33f005b765ab1578ef79F653",
+        "cp": 1697187,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 37,
+        "score": 4860,
+        "guild": "",
+        "avatarname": "Planetario",
+        "avataraddress": "0xb2Fd3F6679E59D979020afA918aEef2d5853fF60",
+        "cp": 2317539,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 40,
+        "score": 4856,
+        "guild": "",
+        "avatarname": "Quoin",
+        "avataraddress": "0x2765B64b61818F86337Cb48f2175946190e6caB0",
+        "cp": 1685384,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 40,
+        "score": 4856,
+        "guild": "",
+        "avatarname": "Ronin",
+        "avataraddress": "0xFaeA609e70D0E2AD86663C88A7cD31d0326dACDD",
+        "cp": 2242018,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 40,
+        "score": 4856,
+        "guild": "",
+        "avatarname": "JOKER",
+        "avataraddress": "0x3202E215556b6b759F3A3C2E5665FD83be659D97",
+        "cp": 1862980,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 41,
+        "score": 4855,
+        "guild": "",
+        "avatarname": "Akinori",
+        "avataraddress": "0xaF4dcd29d720188587d8504ec1EF5ab1701F0011",
+        "cp": 1991097,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 42,
+        "score": 4853,
+        "guild": "",
+        "avatarname": "KramRhaegos",
+        "avataraddress": "0x810514f8C002ca5b2121fC281011516233551d83",
+        "cp": 2170340,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 43,
+        "score": 4851,
+        "guild": "",
+        "avatarname": "Minh",
+        "avataraddress": "0x04cDBC62a62B4Ad30b892e4b0FDBA14743613549",
+        "cp": 2094744,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 44,
+        "score": 4848,
+        "guild": "WLB",
+        "avatarname": "Kionera",
+        "avataraddress": "0xBBF95e33aAC9E7e225Cc5137Dd0039D43ba9fcB8",
+        "cp": 1828601,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 45,
+        "score": 4843,
+        "guild": "",
+        "avatarname": "Hana",
+        "avataraddress": "0x184521CE0FDA6C40e57e1e4E9f7DdFF3081d2a23",
+        "cp": 1899513,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 46,
+        "score": 4841,
+        "guild": "",
+        "avatarname": "Aortom",
+        "avataraddress": "0xD2Fd1371B2DFc6aEBEC8813bf96FA5D0Fe6e5ED0",
+        "cp": 1742338,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 47,
+        "score": 4839,
+        "guild": "VHL",
+        "avatarname": "YaYaYa",
+        "avataraddress": "0x01A0b412721b00bFb5D619378F8ab4E4a97646Ca",
+        "cp": 2719388,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 48,
+        "score": 4837,
+        "guild": "",
+        "avatarname": "AT",
+        "avataraddress": "0x24f540510659A82167EE37D28FA21fC750464133",
+        "cp": 1857328,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 49,
+        "score": 4836,
+        "guild": "",
+        "avatarname": "Fight4U",
+        "avataraddress": "0xB0380c41677Ae640E3c511Bb950AFdC89B76174c",
+        "cp": 1728251,
+        "roundid": 20,
+        "currenttickets": 8
+    },
+    {
+        "rankid": 50,
+        "score": 4833,
+        "guild": "VHL",
+        "avatarname": "Meichan",
+        "avataraddress": "0xe647582faBF2D5904520b2587084b9d87E350EF0",
+        "cp": 1985781,
+        "roundid": 20,
+        "currenttickets": 8
+    }
+]

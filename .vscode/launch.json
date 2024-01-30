@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/NineSimulator/bin/Debug/net8.0/NineSimulator.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/NineSimulator",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        }
+    ]
+}

@@ -6,12 +6,16 @@ import sqlite3
 print("Avatar Address: ")
 
 avatar_address = input()
+print("Limit: ")
+
+limit = int(input())
+
 conn = sqlite3.connect('acc.db')
 query = f"SELECT * FROM result WHERE avatar1_address = '{avatar_address}'"
 
 df = pd.read_sql_query(query, conn)
 
-df = df.groupby(['avatar1_address', 'avatar2_address']).head(1000)
+df = df.groupby(['avatar1_address', 'avatar2_address']).head(limit)
 
 pairwise_stats = df.groupby(['avatar1_address', 'avatar2_address', 'avatar1_name', 'avatar2_name']).agg(
     wins=('avatar1_win', 'sum'),

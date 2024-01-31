@@ -285,4 +285,4 @@ obj/
 analysis/.venv
 .venv
 
-./acc.db
+acc.db

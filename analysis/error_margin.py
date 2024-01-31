@@ -17,12 +17,17 @@ for avatar_pair, group in df.groupby(['avatar1_address', 'avatar2_address']):
         temp_df = group.head(sample_size)
         wins = temp_df['avatar1_win'].sum()
         total = len(temp_df)
-        win_rate = wins / total
+        win_rate = (wins / total) * 100
         confidence_level = 0.95
         z_value = stats.norm.ppf((1 + confidence_level) / 2)
-        error_margin = z_value * np.sqrt((win_rate * (1 - win_rate)) / total) * 100
+
+        conf_interval_low = win_rate - z_value * np.sqrt((win_rate / 100 * (1 - win_rate / 100)) / total) * 100
+        conf_interval_high = win_rate + z_value * np.sqrt((win_rate / 100 * (1 - win_rate / 100)) / total) * 100
+
+        error_margin = conf_interval_high - conf_interval_low
+
         error_margins.append(error_margin)
-    error_margins_dict[avatar_pair] = error_margins_dict
+    error_margins_dict[avatar_pair] = error_margins
 
 avg_error_margins = np.mean(list(error_margins_dict.values()), axis=0)
 plt.figure(figsize=(10, 6))
@@ -34,19 +39,10 @@ plt.grid(True)
 plt.show()
 
 max_error_margin = max(error_margins_dict.items(), key=lambda x: x[1][-1])
-min_error_margin = min(error_margins_dict.items(), key=lambda x: x[1][-1])
 
 plt.figure(figsize=(10, 6))
 plt.plot(sample_sizes, max_error_margin[1], marker='o', linestyle='-', color='g')
 plt.title(f'Max {max_error_margin[0]}')
-plt.xlabel('Sample Size')
-plt.ylabel('Error Margin (%)')
-plt.grid(True)
-plt.show()
-
-plt.figure(figsize=(10, 6))
-plt.plot(sample_sizes, min_error_margin[1], marker='o', linestyle='-', color='m')
-plt.title(f'Min {min_error_margin[0]}')
 plt.xlabel('Sample Size')
 plt.ylabel('Error Margin (%)')
 plt.grid(True)

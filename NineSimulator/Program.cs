@@ -22,7 +22,7 @@ public class Program
         {
             foreach (var arena2 in arenaData)
             {
-                for (int i = 0; i < 1000; i++)
+                for (int i = 0; i < 10000; i++)
                 {
                     await semaphore.WaitAsync();
 

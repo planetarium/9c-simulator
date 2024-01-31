@@ -6,7 +6,6 @@ import sqlite3
 print("Avatar Address: ")
 
 avatar_address = input()
-
 print("Limit: ")
 
 limit = int(input())
